@@ -6,3 +6,8 @@ similarity, target-target similarity, disease-disease similarity, known drug-tar
 used are upload here.
 
 Data set is available upon request to wangwhsdu@gmail.com
+
+
+reference:
+Wenhui Wang, Sen Yang, Xiang Zhang, Jing Li. Drug repositioning by integrating target information through a heterogeneous network model. Bioinformatics. 2014
+Wenhui Wang, Sen Yang, Jing Li. Drug target predictions based on heterogeneous graph inference. Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing. 2013
